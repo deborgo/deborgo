@@ -1,4 +1,8 @@
-![giphy](https://user-images.githubusercontent.com/89709632/134895587-d8c38898-11fc-4c5f-9e6d-d0a0dd2c6b04.gif)
+![screedbot (1)](https://github.com/deborgo/deborgo/blob/master/img/newgif.gif)
+
+
+## Prazer, sou o Deyvid! Estou buscando desenvolver mais minhas habilidades com tecnologias em geral.🎯 🤖 🔎
+<img align="right" width="300px" alt="GG-GIF" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
 
 

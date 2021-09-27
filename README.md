@@ -1,4 +1,4 @@
-![screedbot (1)](https://github.com/deborgo/deborgo/blob/master/IMG/imgs.gif)
+![screedbot (1)](https://github.com/deborgo/deborgo/blob/master/image_processing20191227-6147-9y795b.gif)
 
 ## Alô testando..Tá funcinando??
 

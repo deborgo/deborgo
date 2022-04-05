@@ -16,7 +16,7 @@
           
 <img align="right" width="100px" width="200px" alt="GG-GIF" src="https://pipehline.com.br/wp-content/uploads/2020/04/1_qdFdhbR00beEaIKDI_WDCw.gif">
   
-
+##
 🚧 estudando Python 
 
   Sempre em busca de aprender mais!! 🤓🤖✔️

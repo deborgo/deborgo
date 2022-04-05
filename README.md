@@ -2,9 +2,8 @@
 
 ## 😵 Alô testando..Tá funcinando?? 😵
 <div align="center">
-  <a href="https://github.com/deborgo "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborgo&layout=compact&theme=tokyonight"/></a> 
-  <a href="https://github.com/deborgo "><img src="https://github-readme-stats.vercel.app/api?username=deborgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="deborgo"/></a>
-</p>
+  <a href="https://github.com/deborgo "><img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborgo&layout=compact&theme=tokyonight"/></a> 
+  <a href="https://github.com/deborgo "><img height="145em" src="https://github-readme-stats.vercel.app/api?username=deborgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="deborgo"/></a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="deyvid-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

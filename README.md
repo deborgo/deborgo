@@ -2,7 +2,6 @@
 
 ## 😵 Alô testando..Tá funcinando?? 😵
 <div align="center">
-  <p align = "center">
   <a href="https://github.com/deborgo "><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborgo&layout=compact&theme=tokyonight"/></a> 
   <a href="https://github.com/deborgo "><img src="https://github-readme-stats.vercel.app/api?username=deborgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="deborgo"/></a>
 </p>
@@ -17,6 +16,7 @@
   
           
 <img align="right" width="100px" width="200px" alt="GG-GIF" src="https://pipehline.com.br/wp-content/uploads/2020/04/1_qdFdhbR00beEaIKDI_WDCw.gif">
+  
 
 🚧 estudando Python 
 
